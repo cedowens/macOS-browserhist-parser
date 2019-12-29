@@ -1,6 +1,6 @@
 # macOS Browser History Parser
 
-Swift code to parse the following history databases on macOS:
+Sample Swift code to parse the following history databases on macOS:
 
 - Quarantine events history database (/Users/[user]/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV2)
 - Safari history database (/Users/[user]/Library/Safari/History.db)
