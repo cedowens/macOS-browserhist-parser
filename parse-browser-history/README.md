@@ -10,5 +10,5 @@ Sample Swift code to parse the following history databases on macOS:
 The results are written to the same directory in a file named "browser-history.txt".
 
 Steps:
-1. You can pull the xcodeproj file down, make whatever modifications you desire, and compile your own binary OR you can use the cmopiled binary included here in the repo.
+1. You can pull the xcodeproj file down, make whatever modifications you desire, and compile your own binary OR you can use the cmopiled binary included here in the repo named "compiled-historyparser".
 2. Depending on your use of the binary, you may need to sign and notarize it first or remove the quarantine flag (xattr -d [binary name]) (if you plan to download it via a browser and run it). Otherwise you should be fine
